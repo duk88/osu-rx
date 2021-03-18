@@ -1,0 +1,4 @@
+go to the github and read the fucking readme
+
+if you don't know what github or readme is, follow this link and read very, very carefully.
+https://github.com/mrflashstudio/osu-rx#running-osurx
